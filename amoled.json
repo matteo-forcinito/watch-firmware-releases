@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "1.2.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.2.0/amoled_watch.bin",
+  "channels": {
+    "stable": {
+      "version": "1.2.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.2.0/amoled_watch.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "1.2.0",
+      "channel": "stable",
+      "date": "2026-10-09",
+      "notes": "Release CI: initialize only the watch-os-common submodule",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.2.0/amoled_watch.bin",
+      "size": 2493808,
+      "sha256": "5292e12244868fcd3d890924af62153a9853b71d249ae4007c416d915f4da0d0"
+    }
+  ]
+}
