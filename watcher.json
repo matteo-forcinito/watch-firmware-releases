@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "0.2.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.2.0/watcher_os.bin",
+  "channels": {
+    "stable": {
+      "version": "0.2.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.2.0/watcher_os.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.2.0",
+      "channel": "stable",
+      "date": "2026-10-09",
+      "notes": "Release CI: initialize only the watch-os-common submodule",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.2.0/watcher_os.bin",
+      "size": 2566128,
+      "sha256": "6c4ba95901e55cfeebd70676b67205e2cf9ac644b3fcd92d3504d4132cd1b247"
+    }
+  ]
+}
