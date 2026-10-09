@@ -1,18 +1,27 @@
 {
   "schema": 2,
-  "version": "0.2.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.2.0/watcher_os.bin",
+  "version": "0.3.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.0/watcher_os.bin",
   "channels": {
+    "stable": {
+      "version": "0.3.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.0/watcher_os.bin"
+    },
     "dev": {
       "version": "0.3.0-dev.1",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.0-dev.1/watcher_os.bin"
-    },
-    "stable": {
-      "version": "0.2.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.2.0/watcher_os.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.3.0",
+      "channel": "stable",
+      "date": "2026-10-09",
+      "notes": "Release CI: ESP-IDF installed on the runner and cached, no Docker Hub image",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.0/watcher_os.bin",
+      "size": 2574592,
+      "sha256": "5c4c1e5c97065036a87c7c3e22d7cd95736a5ce63982f96fe4a8970ee901667f"
+    },
     {
       "version": "0.3.0-dev.1",
       "channel": "dev",
