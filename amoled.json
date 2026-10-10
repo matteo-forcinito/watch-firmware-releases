@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.1/firmware.bin",
+  "version": "1.3.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.1/firmware.bin"
+      "version": "1.3.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.2/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.2",
+      "channel": "stable",
+      "date": "2026-10-10",
+      "notes": "Reliability fixes: panel IO lock, watchdog panic, bigger IPC/idle stacks",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.2/firmware.bin",
+      "size": 2504704,
+      "sha256": "91bc32014ea75c290afed028670aca72ceecb566bc4ef2272f589d19dd2e722c"
+    },
     {
       "version": "1.3.1",
       "channel": "stable",
