@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "1.0.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/epaper-v1.0.0/firmware.bin",
+  "channels": {
+    "stable": {
+      "version": "1.0.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/epaper-v1.0.0/firmware.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "date": "2026-10-10",
+      "notes": "Online firmware update: two OTA slots, rollback, UPDATE menu, web upload",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/epaper-v1.0.0/firmware.bin",
+      "size": 1765648,
+      "sha256": "368812cfe50406310a668696a9141e6c655b092fc7194205b7b08367ab34586e"
+    }
+  ]
+}
