@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.3.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin",
+  "version": "0.3.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.3.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin"
+      "version": "0.3.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "0.3.4",
+      "channel": "stable",
+      "date": "2026-10-11",
+      "notes": "Fotocamera a tutto schermo: click della rotella per scattare, menu per video e ",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin",
+      "size": 2598768,
+      "sha256": "8183e4ba7f2056558045a25c56d04faf242f9999103ac5b31403010583104e26"
+    },
     {
       "version": "0.3.3",
       "channel": "stable",
