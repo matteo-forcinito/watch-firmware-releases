@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.3.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.2/firmware.bin",
+  "version": "0.3.3",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.3.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.2/firmware.bin"
+      "version": "0.3.3",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "0.3.3",
+      "channel": "stable",
+      "date": "2026-10-11",
+      "notes": "Fotocamera interna: foto VGA, galleria SD e clip MJPEG senza audio (~1 fps).",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin",
+      "size": 2596000,
+      "sha256": "751c67328a622abe87c558612bb1b0c2ce51f88a541410f5edda35deb00d2904"
+    },
     {
       "version": "0.3.2",
       "channel": "stable",
