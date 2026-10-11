@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.3.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin",
+  "version": "0.3.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.3.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin"
+      "version": "0.3.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.5/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "0.3.5",
+      "channel": "stable",
+      "date": "2026-10-11",
+      "notes": "Corretto arresto video: pressione prolungata dal menu e Stop visibile durante R",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.5/firmware.bin",
+      "size": 2599200,
+      "sha256": "f7e6a79093748b4cdc1ff15c29de6bdb5b087b6e25d73414dcd16e4df9d0116c"
+    },
     {
       "version": "0.3.4",
       "channel": "stable",
