@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin",
+  "version": "0.1.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin"
+      "version": "0.1.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.2",
+      "channel": "stable",
+      "date": "2026-10-11",
+      "notes": "Driver audio: avvio I2S, alimentazione ES8311 e rilascio risorse. Speaker ester",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.2/firmware.bin",
+      "size": 2478544,
+      "sha256": "9161cdffc6d8945619dcbcf5ce8774b66c4ffb42923e919a99196626d8eda058"
+    },
     {
       "version": "0.1.1",
       "channel": "stable",
