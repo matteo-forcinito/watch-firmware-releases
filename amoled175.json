@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "0.1.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin",
+  "channels": {
+    "stable": {
+      "version": "0.1.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.1.1",
+      "channel": "stable",
+      "date": "2026-10-11",
+      "notes": "Dispositivi senza SD: app incompatibili nascoste, memoria file interna e gestio",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin",
+      "size": 2477856,
+      "sha256": "725f7c8adf427aad86bc4fe680f30a8e97af87665680dcbc487bbb0c7d816cd8"
+    }
+  ]
+}
