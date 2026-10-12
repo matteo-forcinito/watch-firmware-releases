@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.6/firmware.bin",
+  "version": "0.1.7",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.7/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.6/firmware.bin"
+      "version": "0.1.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.7/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.7",
+      "channel": "stable",
+      "date": "2026-10-13",
+      "notes": "GitHub marketplace and ORBIT; catalog browsing on the no-SD board",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.7/firmware.bin",
+      "size": 2524208,
+      "sha256": "4ce6b516c876a6599e0b50cbd5a1ed193fc7b575f139f385c9ce4472e06ba532"
+    },
     {
       "version": "0.1.6",
       "channel": "stable",
