@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.3/firmware.bin",
+  "version": "1.3.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.3/firmware.bin"
+      "version": "1.3.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.4/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.4",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Ship Remote 1.0.1 and Settings access to all apps",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.4/firmware.bin",
+      "size": 2511328,
+      "sha256": "48af91d4a19e45603029926f8aab1266d25b58678335a61676d28ae23747997c"
+    },
     {
       "version": "1.3.3",
       "channel": "stable",
