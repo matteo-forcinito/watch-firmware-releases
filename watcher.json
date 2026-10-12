@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.3.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.6/firmware.bin",
+  "version": "0.3.7",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.7/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.3.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.6/firmware.bin"
+      "version": "0.3.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.7/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "0.3.7",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Ship Remote 1.0.1 and Settings access to all apps",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.7/firmware.bin",
+      "size": 2603456,
+      "sha256": "130f536ea162f630402325f2ec6fd4bec869ea2555bda87dfa0e19f80aec99ff"
+    },
     {
       "version": "0.3.6",
       "channel": "stable",
