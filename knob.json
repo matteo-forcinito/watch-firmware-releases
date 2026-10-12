@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin",
+  "version": "0.1.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin"
+      "version": "0.1.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.2",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Ship Remote 1.0.1 and Settings access to all apps",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.2/firmware.bin",
+      "size": 2529504,
+      "sha256": "50e5d7fd8afb7efc2cf3aeb749545f725d6823becc444758341aee658815ff6e"
+    },
     {
       "version": "0.1.1",
       "channel": "stable",
