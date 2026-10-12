@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.4/firmware.bin",
+  "version": "1.3.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.4/firmware.bin"
+      "version": "1.3.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.5/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.5",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Add configurable perimeter progress and rotary-only launcher controls",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.5/firmware.bin",
+      "size": 2514256,
+      "sha256": "559b857599362be9d775ed0cfc9d05c51f892e918df7cca9d8ff3938b707a331"
+    },
     {
       "version": "1.3.4",
       "channel": "stable",
