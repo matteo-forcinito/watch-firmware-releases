@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.5/firmware.bin",
+  "version": "1.3.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.6/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.5/firmware.bin"
+      "version": "1.3.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.6/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.6",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Correct perimeter geometry and simplify home with border battery",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.6/firmware.bin",
+      "size": 2514448,
+      "sha256": "2f79e7db67408e56c1c7a974fea6dd6dea574ca462374bd6e38f1e1a4af117b5"
+    },
     {
       "version": "1.3.5",
       "channel": "stable",
