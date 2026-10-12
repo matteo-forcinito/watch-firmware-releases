@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.5/firmware.bin",
+  "version": "0.1.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.6/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.5/firmware.bin"
+      "version": "0.1.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.6/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.6",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Perimeter geometry correction and home battery card visibility",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.6/firmware.bin",
+      "size": 2486384,
+      "sha256": "0a26e4c8d59839db614d720ce6b3a622ba56f88e98208fc70d29efe1e1459c9a"
+    },
     {
       "version": "0.1.5",
       "channel": "stable",
