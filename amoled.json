@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.7",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.7/firmware.bin",
+  "version": "1.3.8",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.8/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.7",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.7/firmware.bin"
+      "version": "1.3.8",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.8/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.8",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Keep marketplace Open separate from legacy app download",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.8/firmware.bin",
+      "size": 2554752,
+      "sha256": "3626b9a47f1ca32add9de1eb26eaabc6c8bbcf00fa8e8478c23d7af1d2628d5b"
+    },
     {
       "version": "1.3.7",
       "channel": "stable",
