@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.5/firmware.bin",
+  "version": "0.1.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.6/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.5/firmware.bin"
+      "version": "0.1.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.6/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.6",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Keep marketplace Open separate from legacy app download",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.6/firmware.bin",
+      "size": 2564592,
+      "sha256": "620e5a1a871b33524c1df3845f525672ddb5bde617644dae0681bb32cd2d58f4"
+    },
     {
       "version": "0.1.5",
       "channel": "stable",
