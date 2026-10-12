@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "0.1.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin",
+  "channels": {
+    "stable": {
+      "version": "0.1.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "0.1.1",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Ship shared Remote 1.0.0 with PC keyboard, scroll, shortcuts and gamepad",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin",
+      "size": 2529360,
+      "sha256": "ca3b5ba686260e1d7eca11cce1168358b08129c67919a24b3a4e41fa5a95d280"
+    }
+  ]
+}
