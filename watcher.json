@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.3.8",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.8/firmware.bin",
+  "version": "0.3.9",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.9/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.3.8",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.8/firmware.bin"
+      "version": "0.3.9",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.9/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "0.3.9",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Correct perimeter geometry and simplify home with border battery",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.9/firmware.bin",
+      "size": 2606640,
+      "sha256": "25e8c76a0d7825a09e03b73e26a25a8c9b0921a23b688e9452e4cdc8343b666b"
+    },
     {
       "version": "0.3.8",
       "channel": "stable",
