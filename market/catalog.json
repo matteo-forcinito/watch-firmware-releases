@@ -13,12 +13,12 @@
       "binary": {
         "size": 1946096,
         "sha256": "f13839391fed6b769618bf319e47887c6ee8ff36a8716c68bf694797081b14c9",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-watcher_os-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-watcher_os-1.0.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-watcher_os-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-watcher_os-1.0.1.png"
       }
     },
     {
@@ -33,12 +33,12 @@
       "binary": {
         "size": 2074928,
         "sha256": "ddebf84aeb2f2c13b9d7c0a3c17997a26b4e4a87108c663429cdc7af904e222c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WatcherPhoto-watcher_os-0.1.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WatcherPhoto-watcher_os-0.1.0.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WatcherPhoto-watcher_os-0.1.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WatcherPhoto-watcher_os-0.1.0.png"
       }
     },
     {
@@ -53,12 +53,12 @@
       "binary": {
         "size": 1877296,
         "sha256": "b5beb424be7452e7239170a2baffb64402cd1a62541c0a1324934f10d7959719",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-knob_os-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-knob_os-1.0.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-knob_os-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-knob_os-1.0.1.png"
       }
     },
     {
@@ -73,12 +73,12 @@
       "binary": {
         "size": 1824256,
         "sha256": "7d9fb10db3ac92d35ec107e18428651290ee91979d6d3566d2bfe05430474933",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-amoled175_watch-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-amoled175_watch-1.0.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-amoled175_watch-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-amoled175_watch-1.0.1.png"
       }
     },
     {
@@ -93,72 +93,132 @@
       "binary": {
         "size": 1893360,
         "sha256": "66e89d395c5c8219e49887cfa23d4388d8570f78caae9a5755e1b26fd0eaf6fa",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-amoled_watch-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-amoled_watch-1.0.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Remote-amoled_watch-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Remote-amoled_watch-1.0.1.png"
       }
     },
     {
       "id": "Orbit",
       "name": "ORBIT",
-      "version": "1.0.0-dev.1",
-      "board": "amoled_watch",
+      "version": "1.0.0",
+      "board": "watcher_os",
       "project": "orbit",
       "summary": "Il tuo spazio offline: focus, pause e respirazione tra pianeti e orbite.",
-      "channel": "dev",
+      "channel": "stable",
       "color": "9C7CFF",
       "binary": {
-        "size": 1244544,
-        "sha256": "bb9caebdbc0ca16df32cd51c03cfcd48c0f17210e70e5195bc311073b2fbd29e",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Orbit-amoled_watch-1.0.0-dev.1.bin"
+        "size": 1282896,
+        "sha256": "a7eebefa86eba2c8ca7d672a66360af9c424667e44bc038bbf2b9b1d0bd4c08e",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-watcher_os-1.0.0.bin"
       },
       "icon": {
         "size": 15037,
         "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/Orbit-amoled_watch-1.0.0-dev.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-watcher_os-1.0.0.png"
       }
     },
     {
       "id": "WebRadio",
       "name": "Web Radio",
-      "version": "1.0.0-dev.1",
-      "board": "amoled_watch",
-      "project": "webradio",
-      "summary": "Le tue radio dal polso: streaming, preferiti e controlli audio.",
-      "channel": "dev",
-      "color": "FFAC55",
-      "binary": {
-        "size": 2198032,
-        "sha256": "7a9b60ba6cc5c5515125c16e5ee4b790efa05d87aee3363f6192dc28d220a8df",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WebRadio-amoled_watch-1.0.0-dev.1.bin"
-      },
-      "icon": {
-        "size": 832,
-        "sha256": "03ec5a5cbb14968007cc9fdf55b6cd4484c5b91307c2b4fb99ee7f21e4cac6e9",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WebRadio-amoled_watch-1.0.0-dev.1.png"
-      }
-    },
-    {
-      "id": "WebRadio",
-      "name": "Web Radio",
-      "version": "1.0.0-dev.1",
+      "version": "1.0.0",
       "board": "watcher_os",
       "project": "webradio",
-      "summary": "Le tue radio dal polso: streaming, preferiti e controlli audio.",
-      "channel": "dev",
-      "color": "FFAC55",
+      "summary": "Stazioni radio in streaming, salvate localmente.",
+      "channel": "stable",
+      "color": "FFB171",
       "binary": {
-        "size": 2250544,
-        "sha256": "756c1b9a5a855d1b62ee7b6948ab6ade8f299bcae28e95f1d8bee86dd2668aaf",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WebRadio-watcher_os-1.0.0-dev.1.bin"
+        "size": 2250592,
+        "sha256": "ffb3e01a2a738849997da0f6383aa1d9b88869f68be26c2360717464b84cbc36",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WebRadio-watcher_os-1.0.0.bin"
       },
       "icon": {
         "size": 832,
         "sha256": "03ec5a5cbb14968007cc9fdf55b6cd4484c5b91307c2b4fb99ee7f21e4cac6e9",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-market-preview-3/WebRadio-watcher_os-1.0.0-dev.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WebRadio-watcher_os-1.0.0.png"
+      }
+    },
+    {
+      "id": "Orbit",
+      "name": "ORBIT",
+      "version": "1.0.0",
+      "board": "amoled_watch",
+      "project": "orbit",
+      "summary": "Il tuo spazio offline: focus, pause e respirazione tra pianeti e orbite.",
+      "channel": "stable",
+      "color": "9C7CFF",
+      "binary": {
+        "size": 1227840,
+        "sha256": "cc28bdcff9e62d3327e2bc07562f4950e4770106b4378f4da850b0e54d1e9b19",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-amoled_watch-1.0.0.bin"
+      },
+      "icon": {
+        "size": 15037,
+        "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-amoled_watch-1.0.0.png"
+      }
+    },
+    {
+      "id": "WebRadio",
+      "name": "Web Radio",
+      "version": "1.0.0",
+      "board": "amoled_watch",
+      "project": "webradio",
+      "summary": "Stazioni radio in streaming, salvate localmente.",
+      "channel": "stable",
+      "color": "FFB171",
+      "binary": {
+        "size": 2198096,
+        "sha256": "9bd3930baa88c103c6d0f896c2e5059d5a74f34587677812ce93b1719de6d344",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WebRadio-amoled_watch-1.0.0.bin"
+      },
+      "icon": {
+        "size": 832,
+        "sha256": "03ec5a5cbb14968007cc9fdf55b6cd4484c5b91307c2b4fb99ee7f21e4cac6e9",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/WebRadio-amoled_watch-1.0.0.png"
+      }
+    },
+    {
+      "id": "Orbit",
+      "name": "ORBIT",
+      "version": "1.0.0",
+      "board": "amoled175_watch",
+      "project": "orbit",
+      "summary": "Il tuo spazio offline: focus, pause e respirazione tra pianeti e orbite.",
+      "channel": "stable",
+      "color": "9C7CFF",
+      "binary": {
+        "size": 1158784,
+        "sha256": "10f42a8c6fc08805078a3157f8a7a825e4bca2eaf69fca619652bcc45146f4de",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-amoled175_watch-1.0.0.bin"
+      },
+      "icon": {
+        "size": 15037,
+        "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-amoled175_watch-1.0.0.png"
+      }
+    },
+    {
+      "id": "Orbit",
+      "name": "ORBIT",
+      "version": "1.0.0",
+      "board": "knob_os",
+      "project": "orbit",
+      "summary": "Il tuo spazio offline: focus, pause e respirazione tra pianeti e orbite.",
+      "channel": "stable",
+      "color": "9C7CFF",
+      "binary": {
+        "size": 1214368,
+        "sha256": "a799b53e2025f34db83b46ee5316b7daa215cff2e36d266ae3aea27c8a104d01",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-knob_os-1.0.0.bin"
+      },
+      "icon": {
+        "size": 15037,
+        "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.0.0/Orbit-knob_os-1.0.0.png"
       }
     }
   ]
