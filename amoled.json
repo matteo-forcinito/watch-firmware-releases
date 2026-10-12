@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.3.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.6/firmware.bin",
+  "version": "1.3.7",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.7/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.3.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.6/firmware.bin"
+      "version": "1.3.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.7/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.3.7",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Integrate Sensors adapters and checkpoint verified AMOLED voice memos",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.7/firmware.bin",
+      "size": 2535728,
+      "sha256": "538669981e0dc56684c9fab38574134cf025e3abd713c9bf423ea7fefd857c84"
+    },
     {
       "version": "1.3.6",
       "channel": "stable",
