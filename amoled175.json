@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.3/firmware.bin",
+  "version": "0.1.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.3/firmware.bin"
+      "version": "0.1.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "0.1.4",
+      "channel": "stable",
+      "date": "2026-10-12",
+      "notes": "Remote 1.0.1: PC keyboard, scroll, shortcuts and gamepad",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.4/firmware.bin",
+      "size": 2483232,
+      "sha256": "a554ee99d4a21c59570003fce4643e206dfdb98529e6da60790d114a4f45c702"
+    },
     {
       "version": "0.1.3",
       "channel": "stable",
