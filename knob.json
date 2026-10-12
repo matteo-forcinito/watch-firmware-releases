@@ -16,7 +16,7 @@
       "notes": "Fix Knob navigation with directional-contact debounce",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.5/firmware.bin",
       "size": 2545360,
-      "sha256": "cf285bd06307ae21777383bc82cc7e34902aaebc5330954229d0f5ae7611c2cb"
+      "sha256": "bce5f74fc8b21d76a8e8f6b6fb63f7cfe4239c569dba348fee355ae889365f1e"
     },
     {
       "version": "0.1.4",
