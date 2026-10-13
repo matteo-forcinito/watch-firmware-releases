@@ -13,12 +13,12 @@
       "binary": {
         "size": 2471856,
         "sha256": "bb0be30cbe2d41312a30f0c0e068c1acd35b26f2e5b438f5a752aacbc895d95d",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-watcher_os-1.1.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-watcher_os-1.1.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-watcher_os-1.1.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-watcher_os-1.1.1.png"
       }
     },
     {
@@ -33,12 +33,12 @@
       "binary": {
         "size": 2074928,
         "sha256": "ddebf84aeb2f2c13b9d7c0a3c17997a26b4e4a87108c663429cdc7af904e222c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WatcherPhoto-watcher_os-0.1.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WatcherPhoto-watcher_os-0.1.0.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WatcherPhoto-watcher_os-0.1.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WatcherPhoto-watcher_os-0.1.0.png"
       }
     },
     {
@@ -53,12 +53,12 @@
       "binary": {
         "size": 2405072,
         "sha256": "d7d9fbe0f30624ad067389b375e017d5c6cbb47355e07105f0b29e7a38b4ad89",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-knob_os-1.1.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-knob_os-1.1.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-knob_os-1.1.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-knob_os-1.1.1.png"
       }
     },
     {
@@ -73,12 +73,12 @@
       "binary": {
         "size": 2351472,
         "sha256": "0666eb2383daa4d76cc9403dbb472ff4c710c693bffebc16cdad792ff53d81c2",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-amoled175_watch-1.1.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-amoled175_watch-1.1.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-amoled175_watch-1.1.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-amoled175_watch-1.1.1.png"
       }
     },
     {
@@ -93,12 +93,12 @@
       "binary": {
         "size": 2420224,
         "sha256": "ab5579b60297ab84ac60d8937422e9c3a5ec238e33218bd805ee2970fd7b036b",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-amoled_watch-1.1.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-amoled_watch-1.1.1.bin"
       },
       "icon": {
         "size": 623,
         "sha256": "d26e274fe36afdbc05a3a4d8acd51ecd499df7082018f0bd14f4c44e06f4345c",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Remote-amoled_watch-1.1.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Remote-amoled_watch-1.1.1.png"
       }
     },
     {
@@ -113,12 +113,12 @@
       "binary": {
         "size": 1282896,
         "sha256": "a7eebefa86eba2c8ca7d672a66360af9c424667e44bc038bbf2b9b1d0bd4c08e",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-watcher_os-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-watcher_os-1.0.0.bin"
       },
       "icon": {
         "size": 15037,
         "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-watcher_os-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-watcher_os-1.0.0.png"
       }
     },
     {
@@ -133,12 +133,12 @@
       "binary": {
         "size": 2250592,
         "sha256": "ffb3e01a2a738849997da0f6383aa1d9b88869f68be26c2360717464b84cbc36",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WebRadio-watcher_os-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WebRadio-watcher_os-1.0.0.bin"
       },
       "icon": {
         "size": 832,
         "sha256": "03ec5a5cbb14968007cc9fdf55b6cd4484c5b91307c2b4fb99ee7f21e4cac6e9",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WebRadio-watcher_os-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WebRadio-watcher_os-1.0.0.png"
       }
     },
     {
@@ -153,12 +153,12 @@
       "binary": {
         "size": 1227840,
         "sha256": "cc28bdcff9e62d3327e2bc07562f4950e4770106b4378f4da850b0e54d1e9b19",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-amoled_watch-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-amoled_watch-1.0.0.bin"
       },
       "icon": {
         "size": 15037,
         "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-amoled_watch-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-amoled_watch-1.0.0.png"
       }
     },
     {
@@ -173,12 +173,12 @@
       "binary": {
         "size": 2198096,
         "sha256": "9bd3930baa88c103c6d0f896c2e5059d5a74f34587677812ce93b1719de6d344",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WebRadio-amoled_watch-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WebRadio-amoled_watch-1.0.0.bin"
       },
       "icon": {
         "size": 832,
         "sha256": "03ec5a5cbb14968007cc9fdf55b6cd4484c5b91307c2b4fb99ee7f21e4cac6e9",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/WebRadio-amoled_watch-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/WebRadio-amoled_watch-1.0.0.png"
       }
     },
     {
@@ -193,12 +193,12 @@
       "binary": {
         "size": 1158784,
         "sha256": "10f42a8c6fc08805078a3157f8a7a825e4bca2eaf69fca619652bcc45146f4de",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-amoled175_watch-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-amoled175_watch-1.0.0.bin"
       },
       "icon": {
         "size": 15037,
         "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-amoled175_watch-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-amoled175_watch-1.0.0.png"
       }
     },
     {
@@ -213,12 +213,12 @@
       "binary": {
         "size": 1214368,
         "sha256": "a799b53e2025f34db83b46ee5316b7daa215cff2e36d266ae3aea27c8a104d01",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-knob_os-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-knob_os-1.0.0.bin"
       },
       "icon": {
         "size": 15037,
         "sha256": "5446e8f10f0689fe4ec4c9e593242bd4c6fa3f1d80e0d9464bc7b3a6497aa395",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Orbit-knob_os-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Orbit-knob_os-1.0.0.png"
       }
     },
     {
@@ -233,12 +233,12 @@
       "binary": {
         "size": 2742192,
         "sha256": "15f76461381389a70b79438f857c5cd50a18566f7589d1ce1a40c8f15967b179",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-amoled_watch-0.2.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-amoled_watch-0.2.0.bin"
       },
       "icon": {
         "size": 2433,
         "sha256": "314c896f8f77f781389b4da8125b440083c47a4248140ed60c7893183f0047aa",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-amoled_watch-0.2.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-amoled_watch-0.2.0.png"
       }
     },
     {
@@ -253,12 +253,12 @@
       "binary": {
         "size": 2277712,
         "sha256": "52c76dfdf94e42111d83c70185a5d93e81f9992699c5d59648b300eaf8b25405",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-amoled_watch-0.1.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-amoled_watch-0.1.0.bin"
       },
       "icon": {
         "size": 12627,
         "sha256": "132c8c54c32a45ddc2a2294616d931ef96a55982495d2e88cb053bf4bc570ad2",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-amoled_watch-0.1.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-amoled_watch-0.1.0.png"
       }
     },
     {
@@ -273,12 +273,12 @@
       "binary": {
         "size": 2794208,
         "sha256": "01b0352e8abcd32df992d76c6a389dae9133818021f67a45b50235fd06f9cd4a",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-watcher_os-0.2.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-watcher_os-0.2.0.bin"
       },
       "icon": {
         "size": 2433,
         "sha256": "314c896f8f77f781389b4da8125b440083c47a4248140ed60c7893183f0047aa",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-watcher_os-0.2.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-watcher_os-0.2.0.png"
       }
     },
     {
@@ -293,12 +293,12 @@
       "binary": {
         "size": 2329952,
         "sha256": "ad98e3253f2e323ed7cd573e6c81fe2606784074eed3258da4b309c631e931c1",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-watcher_os-0.1.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-watcher_os-0.1.0.bin"
       },
       "icon": {
         "size": 12627,
         "sha256": "132c8c54c32a45ddc2a2294616d931ef96a55982495d2e88cb053bf4bc570ad2",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-watcher_os-0.1.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-watcher_os-0.1.0.png"
       }
     },
     {
@@ -313,12 +313,12 @@
       "binary": {
         "size": 2728784,
         "sha256": "4fe19042161939e3ca12e0814aa013e436aefd87f5d0a350bc9e26fb698ff477",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-knob_os-0.2.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-knob_os-0.2.0.bin"
       },
       "icon": {
         "size": 2433,
         "sha256": "314c896f8f77f781389b4da8125b440083c47a4248140ed60c7893183f0047aa",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Sentinel-knob_os-0.2.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Sentinel-knob_os-0.2.0.png"
       }
     },
     {
@@ -333,12 +333,12 @@
       "binary": {
         "size": 2263040,
         "sha256": "1cf000f50a5a52b3f308340cf719e73b3d23a960c30edef9c6a368c97850e4d6",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-knob_os-0.1.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-knob_os-0.1.0.bin"
       },
       "icon": {
         "size": 12627,
         "sha256": "132c8c54c32a45ddc2a2294616d931ef96a55982495d2e88cb053bf4bc570ad2",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Vault-knob_os-0.1.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Vault-knob_os-0.1.0.png"
       }
     },
     {
@@ -353,12 +353,12 @@
       "binary": {
         "size": 1420064,
         "sha256": "ac3d00df7c36e95c5358870f847f761b1ad6107b92a661f6110330b11683688d",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-amoled_watch-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-amoled_watch-1.0.1.bin"
       },
       "icon": {
         "size": 4314,
         "sha256": "dce8003a06ee420330158dbd452d2b7c8e267ea0f681b3b5418820d20007e7ee",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-amoled_watch-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-amoled_watch-1.0.1.png"
       }
     },
     {
@@ -373,12 +373,12 @@
       "binary": {
         "size": 1472736,
         "sha256": "b14daec191161fabf51cc5a25c9a6495b98a0f77bf7a19b2f04bcf37fab25eca",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-watcher_os-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-watcher_os-1.0.1.bin"
       },
       "icon": {
         "size": 4314,
         "sha256": "dce8003a06ee420330158dbd452d2b7c8e267ea0f681b3b5418820d20007e7ee",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-watcher_os-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-watcher_os-1.0.1.png"
       }
     },
     {
@@ -393,12 +393,12 @@
       "binary": {
         "size": 1404496,
         "sha256": "81294869604c0fb5440a966adcf0587831f5dbb878027bba7c7f0a0babc13edb",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-knob_os-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-knob_os-1.0.1.bin"
       },
       "icon": {
         "size": 4314,
         "sha256": "dce8003a06ee420330158dbd452d2b7c8e267ea0f681b3b5418820d20007e7ee",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-knob_os-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-knob_os-1.0.1.png"
       }
     },
     {
@@ -413,12 +413,12 @@
       "binary": {
         "size": 1341952,
         "sha256": "45a0333739f091369eee05c781875d32d8601d25c028daed24fd609a78837602",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-amoled175_watch-1.0.1.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-amoled175_watch-1.0.1.bin"
       },
       "icon": {
         "size": 4314,
         "sha256": "dce8003a06ee420330158dbd452d2b7c8e267ea0f681b3b5418820d20007e7ee",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Ombra-amoled175_watch-1.0.1.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Ombra-amoled175_watch-1.0.1.png"
       }
     },
     {
@@ -433,12 +433,12 @@
       "binary": {
         "size": 1972032,
         "sha256": "b4f2cec9500184cc3b269b0b9f488714a618dd9e7267ab382262781710122e6d",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-amoled_watch-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-amoled_watch-1.0.0.bin"
       },
       "icon": {
         "size": 4329,
         "sha256": "9c61a332d4d7d17c7bed171f653ce60fda503004c46ee1668d789188256642ac",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-amoled_watch-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-amoled_watch-1.0.0.png"
       }
     },
     {
@@ -453,12 +453,12 @@
       "binary": {
         "size": 2028144,
         "sha256": "1ce82cf80023ba87ae8a8a42ed3de963912b2f2dddfa2312366ff64bf20bd199",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-watcher_os-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-watcher_os-1.0.0.bin"
       },
       "icon": {
         "size": 4329,
         "sha256": "9c61a332d4d7d17c7bed171f653ce60fda503004c46ee1668d789188256642ac",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-watcher_os-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-watcher_os-1.0.0.png"
       }
     },
     {
@@ -473,12 +473,12 @@
       "binary": {
         "size": 1994704,
         "sha256": "83681cd060a4dc0d053e16d616e9d24e2ce13491a81d43af51b74333e3a509ad",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-knob_os-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-knob_os-1.0.0.bin"
       },
       "icon": {
         "size": 4329,
         "sha256": "9c61a332d4d7d17c7bed171f653ce60fda503004c46ee1668d789188256642ac",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-knob_os-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-knob_os-1.0.0.png"
       }
     },
     {
@@ -493,12 +493,92 @@
       "binary": {
         "size": 1928128,
         "sha256": "6218d84b034600deea20ecd251e59e9f697bfda0444bab26d1aa6b873602c6d3",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-amoled175_watch-1.0.0.bin"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-amoled175_watch-1.0.0.bin"
       },
       "icon": {
         "size": 4329,
         "sha256": "9c61a332d4d7d17c7bed171f653ce60fda503004c46ee1668d789188256642ac",
-        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.6.0/Cielo-amoled175_watch-1.0.0.png"
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Cielo-amoled175_watch-1.0.0.png"
+      }
+    },
+    {
+      "id": "Anello",
+      "name": "Anello",
+      "version": "1.0.0",
+      "board": "amoled_watch",
+      "project": "anello",
+      "summary": "Arcade ad anello: muovi la racchetta sul bordo e rompi i cristalli. Pensato per gli schermi tondi.",
+      "channel": "stable",
+      "color": "A27BFF",
+      "binary": {
+        "size": 1152976,
+        "sha256": "8f406bb3fd1e99de506f058637993008adfbb0a50fd8be24c7ae6e4714cfc3c4",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-amoled_watch-1.0.0.bin"
+      },
+      "icon": {
+        "size": 3803,
+        "sha256": "4f156d076dd95798024a676555afecaac853c1924cefdc122cb6df4aaa9c2217",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-amoled_watch-1.0.0.png"
+      }
+    },
+    {
+      "id": "Anello",
+      "name": "Anello",
+      "version": "1.0.0",
+      "board": "watcher_os",
+      "project": "anello",
+      "summary": "Arcade ad anello: muovi la racchetta sul bordo e rompi i cristalli. Pensato per gli schermi tondi.",
+      "channel": "stable",
+      "color": "A27BFF",
+      "binary": {
+        "size": 1211760,
+        "sha256": "fa2f92e37d8a7e98df89b9ee093a311480c0d29f64112de7c252fe25dd0d09f0",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-watcher_os-1.0.0.bin"
+      },
+      "icon": {
+        "size": 3803,
+        "sha256": "4f156d076dd95798024a676555afecaac853c1924cefdc122cb6df4aaa9c2217",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-watcher_os-1.0.0.png"
+      }
+    },
+    {
+      "id": "Anello",
+      "name": "Anello",
+      "version": "1.0.0",
+      "board": "knob_os",
+      "project": "anello",
+      "summary": "Arcade ad anello: muovi la racchetta sul bordo e rompi i cristalli. Pensato per gli schermi tondi.",
+      "channel": "stable",
+      "color": "A27BFF",
+      "binary": {
+        "size": 1175632,
+        "sha256": "341368c997a37b36ae0f7f6a6956d7dc4688e8df9f9f8619ebe59486a049b333",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-knob_os-1.0.0.bin"
+      },
+      "icon": {
+        "size": 3803,
+        "sha256": "4f156d076dd95798024a676555afecaac853c1924cefdc122cb6df4aaa9c2217",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-knob_os-1.0.0.png"
+      }
+    },
+    {
+      "id": "Anello",
+      "name": "Anello",
+      "version": "1.0.0",
+      "board": "amoled175_watch",
+      "project": "anello",
+      "summary": "Arcade ad anello: muovi la racchetta sul bordo e rompi i cristalli. Pensato per gli schermi tondi.",
+      "channel": "stable",
+      "color": "A27BFF",
+      "binary": {
+        "size": 1076560,
+        "sha256": "bc47ac1db636ee7d419ecc705ac5427b8a4f450aed26b775b211482aea8aff4c",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-amoled175_watch-1.0.0.bin"
+      },
+      "icon": {
+        "size": 3803,
+        "sha256": "4f156d076dd95798024a676555afecaac853c1924cefdc122cb6df4aaa9c2217",
+        "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/apps-v1.7.0/Anello-amoled175_watch-1.0.0.png"
       }
     }
   ]
