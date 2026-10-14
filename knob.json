@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.6.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.0/firmware.bin",
+  "version": "1.6.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.0/firmware.bin"
+      "version": "1.6.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.6.1",
+      "channel": "stable",
+      "date": "2026-10-14",
+      "notes": "Close confirmation, one app at a time from dashboards, dashboard off, install c",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.1/firmware.bin",
+      "size": 3008640,
+      "sha256": "5f6910c6a23c39fd9e70933148fbed00f813bff3f6855e3450f0e3f85e6149d7"
+    },
     {
       "version": "1.6.0",
       "channel": "stable",
