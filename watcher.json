@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.5.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.5.0/firmware.bin",
+  "version": "1.6.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.5.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.5.0/firmware.bin"
+      "version": "1.6.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.0/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.6.0",
+      "channel": "stable",
+      "date": "2026-10-14",
+      "notes": "News app built into the OS",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.0/firmware.bin",
+      "size": 2983360,
+      "sha256": "d04a23e264d2094ab5d6e17f81dd7ad4f09442c2fd58cd180400c4081303d6a5"
+    },
     {
       "version": "1.5.0",
       "channel": "stable",
