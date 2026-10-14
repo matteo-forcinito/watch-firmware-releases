@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.5.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.5.0/firmware.bin",
+  "version": "1.6.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.5.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.5.0/firmware.bin"
+      "version": "1.6.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.0/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.6.0",
+      "channel": "stable",
+      "date": "2026-10-14",
+      "notes": "News app built into the OS",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.0/firmware.bin",
+      "size": 2908304,
+      "sha256": "62a015fd85d7db6182812aeb35b068d87d5413cfa12e530ac1667fb1edb8766e"
+    },
     {
       "version": "1.5.0",
       "channel": "stable",
