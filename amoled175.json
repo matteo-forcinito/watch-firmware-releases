@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "0.1.7",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.7/firmware.bin",
+  "version": "1.6.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "0.1.7",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.7/firmware.bin"
+      "version": "1.6.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.0/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.6.0",
+      "channel": "stable",
+      "date": "2026-10-14",
+      "notes": "News app built into the OS",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.0/firmware.bin",
+      "size": 2867104,
+      "sha256": "653b5948ac4425c06b8237b19338628318852de50a66ebaadfb91b20765b5e75"
+    },
     {
       "version": "0.1.7",
       "channel": "stable",
