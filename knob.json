@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.6.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.1/firmware.bin",
+  "version": "1.6.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.1/firmware.bin"
+      "version": "1.6.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.6.2",
+      "channel": "stable",
+      "date": "2026-10-15",
+      "notes": "Release 1.6.2: ECOS pairing device to device over ESP-NOW (no router, no intern",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.2/firmware.bin",
+      "size": 3030368,
+      "sha256": "3fc6fcdd382810cd2174c3c1acea16637ba29b2ddd86b04b7cf03a1324128456"
+    },
     {
       "version": "1.6.1",
       "channel": "stable",
