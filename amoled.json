@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.6.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.6.2/firmware.bin",
+  "version": "1.7.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.7.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.6.2/firmware.bin"
+      "version": "1.7.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.7.0/firmware.bin"
     },
     "dev": {
       "version": "1.3.0-dev.2",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.7.0",
+      "channel": "stable",
+      "date": "2026-10-15",
+      "notes": "Release 1.7.0: ECOS pairing and Family on watch and dashboard",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.7.0/firmware.bin",
+      "size": 3041984,
+      "sha256": "15daf4a0ae4c0f244d0ca10ad3388e54aa19997905232aa1cbe7bcfe3c5d2019"
+    },
     {
       "version": "1.6.2",
       "channel": "stable",
