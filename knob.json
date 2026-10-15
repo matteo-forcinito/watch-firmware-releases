@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.6.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.2/firmware.bin",
+  "version": "1.7.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.7.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.6.2/firmware.bin"
+      "version": "1.7.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.7.0/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.7.0",
+      "channel": "stable",
+      "date": "2026-10-15",
+      "notes": "Release 1.7.0: ECOS pairing and Family on watch and dashboard",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.7.0/firmware.bin",
+      "size": 3049728,
+      "sha256": "da288174148b78544277fc8cf364c11fd501444831b4222136a0c9952f0bb9e6"
+    },
     {
       "version": "1.6.2",
       "channel": "stable",
