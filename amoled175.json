@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.6.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.1/firmware.bin",
+  "version": "1.6.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.1/firmware.bin"
+      "version": "1.6.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.6.2",
+      "channel": "stable",
+      "date": "2026-10-15",
+      "notes": "Release 1.6.2: ECOS pairing device to device over ESP-NOW (no router, no intern",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.6.2/firmware.bin",
+      "size": 2991280,
+      "sha256": "09257d0d5521de5563fd21b91cd922a46eaf929157df73313185cf7fdeb8421b"
+    },
     {
       "version": "1.6.1",
       "channel": "stable",
