@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.6.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.1/firmware.bin",
+  "version": "1.6.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.6.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.1/firmware.bin"
+      "version": "1.6.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.2/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.6.2",
+      "channel": "stable",
+      "date": "2026-10-15",
+      "notes": "Release 1.6.2: ECOS pairing device to device over ESP-NOW (no router, no intern",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.6.2/firmware.bin",
+      "size": 3105968,
+      "sha256": "94b59696edb00811ccf87bd099183dce710b9c8d9ed6a636f42f1d4043c8d0b0"
+    },
     {
       "version": "1.6.1",
       "channel": "stable",
