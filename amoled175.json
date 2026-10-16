@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.7.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.7.0/firmware.bin",
+  "version": "1.8.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.7.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.7.0/firmware.bin"
+      "version": "1.8.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.0/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.0",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Gestione diretta, mirroring opzionale ed Ecosystem.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.0/firmware.bin",
+      "size": 3081984,
+      "sha256": "c36c9e0f6c6c2b0b6138d35adaab2b229ce9248edb401b0b605af04a98f18670"
+    },
     {
       "version": "1.7.0",
       "channel": "stable",
