@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.8.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.2/firmware.bin",
+  "version": "1.8.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.2/firmware.bin"
+      "version": "1.8.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.4",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Schermo remoto fluido: trasmissione delle sole aree cambiate, display spento.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.4/firmware.bin",
+      "size": 3101568,
+      "sha256": "2d9c956ea29ecb3c070b6cc02f85c309867014a39607f969da171be676c8ec6a"
+    },
     {
       "version": "1.8.2",
       "channel": "stable",
