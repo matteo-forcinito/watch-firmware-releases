@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.8.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.2/firmware.bin",
+  "version": "1.8.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.2/firmware.bin"
+      "version": "1.8.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.4",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Schermo remoto fluido: trasmissione delle sole aree cambiate, display spento.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
+      "size": 3095120,
+      "sha256": "2fe9801a1a017d720d2fed900df26a7b339ed47ee89678c45d0adb7ebcfc67ce"
+    },
     {
       "version": "1.8.2",
       "channel": "stable",
