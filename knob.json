@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.8.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.0/firmware.bin",
+  "version": "1.8.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.0/firmware.bin"
+      "version": "1.8.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.1",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Gestione diretta, mirroring opzionale ed Ecosystem.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.1/firmware.bin",
+      "size": 3084880,
+      "sha256": "2ef0ecd98b1fa268fc2e4f01373d55a15c3795d49911138a55bed9f0eedbf7af"
+    },
     {
       "version": "1.8.0",
       "channel": "stable",
