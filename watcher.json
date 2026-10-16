@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.8.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.2/firmware.bin",
+  "version": "1.8.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.2/firmware.bin"
+      "version": "1.8.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.4",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Schermo remoto fluido: trasmissione delle sole aree cambiate, display spento.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
+      "size": 3170880,
+      "sha256": "29feec3bb3eb2feee13280396f600941d1b1e5e1a8532a9b5da7c8288d2adffe"
+    },
     {
       "version": "1.8.2",
       "channel": "stable",
