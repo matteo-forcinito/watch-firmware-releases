@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.8.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.1/firmware.bin",
+  "version": "1.8.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.1/firmware.bin"
+      "version": "1.8.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.2/firmware.bin"
     },
     "dev": {
       "version": "0.3.0-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.2",
+      "channel": "stable",
+      "date": "2026-10-16",
+      "notes": "Gestione diretta, mirroring opzionale ed Ecosystem.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.2/firmware.bin",
+      "size": 3159920,
+      "sha256": "905ae5a351292ad17cac10b20d30f958c3854441afac861ce6a6cd8916ae6527"
+    },
     {
       "version": "1.8.1",
       "channel": "stable",
