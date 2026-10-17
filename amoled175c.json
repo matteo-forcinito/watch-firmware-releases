@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.3/firmware.bin"
+      "version": "1.8.6-dev.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.4/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.4",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sentinel: Trova pi\u00f9 affidabile, nuova schermata principale.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.4/firmware.bin",
+      "size": 3177792,
+      "sha256": "ca4795d56af0152ac29d0cfb5e7586d24de3c6b546ba0f91e034d29bbdbde2a5"
+    },
     {
       "version": "1.8.6-dev.3",
       "channel": "dev",
