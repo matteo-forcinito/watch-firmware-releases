@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.5/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.6-dev.5/firmware.bin"
+      "version": "1.8.6-dev.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.6-dev.6/firmware.bin"
     },
     "stable": {
       "version": "1.8.5",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.6",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: la dashboard non si svuota pi\u00f9 dopo \"Togli il saldo\".",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.6-dev.6/firmware.bin",
+      "size": 3221520,
+      "sha256": "df6e7c5e949c0e55fa388a1669469fefe5525d9fb239158914b91b8de2325e29"
+    },
     {
       "version": "1.8.6-dev.5",
       "channel": "dev",
