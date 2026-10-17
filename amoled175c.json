@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.7",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.7/firmware.bin"
+      "version": "1.8.6-dev.8",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.8/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.8",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Nuova app Sistema con monitor leggero; Bilancio: saldo a fine mese.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.8/firmware.bin",
+      "size": 3184400,
+      "sha256": "33d067c8761980d6d6f9f017ae005f3d4828b7aea01287ee016289b8f4859d4b"
+    },
     {
       "version": "1.8.6-dev.7",
       "channel": "dev",
