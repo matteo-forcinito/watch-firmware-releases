@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.7",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.7/firmware.bin"
+      "version": "1.8.6-dev.8",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.8/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.8",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Nuova app Sistema con monitor leggero; Bilancio: saldo a fine mese.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.8/firmware.bin",
+      "size": 3214320,
+      "sha256": "d9aa195781aa57b9456efae3c3e2fa5136a58fc5fe76d8307edf19268b020987"
+    },
     {
       "version": "1.8.6-dev.7",
       "channel": "dev",
