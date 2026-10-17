@@ -3,12 +3,25 @@
   "version": "1.8.4",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.8.6-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.8.4",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.1",
+      "channel": "dev",
+      "date": "2026-10-17",
+      "notes": "Bilancio: quanto puoi spendere oggi, entrate e uscite per settimana/mese/anno.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.1/firmware.bin",
+      "size": 3155392,
+      "sha256": "b59dbae87485e54e56551d861ef39f02d49bb7820bfdd66beea1c8040dea88dd"
+    },
     {
       "version": "1.8.4",
       "channel": "stable",
