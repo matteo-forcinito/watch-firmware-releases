@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.2/firmware.bin"
+      "version": "1.8.6-dev.3",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.3/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.3",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: saldo rimovibile, conti giusti prima dello stipendio, Riepilogo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.3/firmware.bin",
+      "size": 3214752,
+      "sha256": "df72d4b3ca7a59673666d9e18c9a7919fce462edcf1176cbd489bf7c44536dc4"
+    },
     {
       "version": "1.8.6-dev.2",
       "channel": "dev",
