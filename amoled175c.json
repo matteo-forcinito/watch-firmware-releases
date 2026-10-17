@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.5/firmware.bin"
+      "version": "1.8.6-dev.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.7/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.7",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: lo stipendio gi\u00e0 arrivato entra sempre nel saldo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.7/firmware.bin",
+      "size": 3177936,
+      "sha256": "f10ce8251cf20f062e0532c93375ee6a55056e1685c80e454148e42fcad717ce"
+    },
     {
       "version": "1.8.6-dev.5",
       "channel": "dev",
