@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.6/firmware.bin"
+      "version": "1.8.6-dev.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.7/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.7",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: lo stipendio gi\u00e0 arrivato entra sempre nel saldo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.7/firmware.bin",
+      "size": 3215984,
+      "sha256": "1e8aa17d01dde5f9574bf23dfe24071199cd453353914316b877cec29b415d3a"
+    },
     {
       "version": "1.8.6-dev.6",
       "channel": "dev",
