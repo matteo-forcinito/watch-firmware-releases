@@ -3,16 +3,25 @@
   "version": "1.8.4",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.8.6-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.8.4",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin"
-    },
-    "dev": {
-      "version": "0.3.0-dev.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.0-dev.1/watcher_os.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.1",
+      "channel": "dev",
+      "date": "2026-10-17",
+      "notes": "Bilancio: quanto puoi spendere oggi, entrate e uscite per settimana/mese/anno.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.1/firmware.bin",
+      "size": 3267632,
+      "sha256": "6e74a16d594d10d5b1ff3105badb84d95c7a30b14b4fc53388d3a69ca630c03b"
+    },
     {
       "version": "1.8.4",
       "channel": "stable",
