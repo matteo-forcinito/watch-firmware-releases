@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.3/firmware.bin"
+      "version": "1.8.6-dev.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.4/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.4",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sentinel: Trova pi\u00f9 affidabile, nuova schermata principale.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.4/firmware.bin",
+      "size": 3207776,
+      "sha256": "49c84767a35b5ad2aed8671f902bd675db3e06ca6ee2d7c0e907edcfa9f2ec36"
+    },
     {
       "version": "1.8.6-dev.3",
       "channel": "dev",
