@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.8",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.8/firmware.bin"
+      "version": "1.8.6-dev.9",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.9/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.9",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sistema rifatta come Bilancio; monitor leggero col doppio reset che funziona.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.9/firmware.bin",
+      "size": 3298896,
+      "sha256": "dccef5be122faa3a3d3a2637ef35745507d6a1ff944737e75012da4ac3cf5416"
+    },
     {
       "version": "1.8.6-dev.8",
       "channel": "dev",
