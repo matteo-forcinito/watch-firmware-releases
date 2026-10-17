@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.8",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.8/firmware.bin"
+      "version": "1.8.6-dev.9",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.9/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.9",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sistema rifatta come Bilancio; monitor leggero col doppio reset che funziona.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.9/firmware.bin",
+      "size": 3216176,
+      "sha256": "c94d11a9a05f6bea915b5530595d43317b48864aee0af87838032cdae9a6f1ec"
+    },
     {
       "version": "1.8.6-dev.8",
       "channel": "dev",
