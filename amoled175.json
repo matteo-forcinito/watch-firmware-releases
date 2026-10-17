@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.8.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.4/firmware.bin",
+  "version": "1.8.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.4/firmware.bin"
+      "version": "1.8.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.5/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.5",
+      "channel": "stable",
+      "date": "2026-10-17",
+      "notes": "Nuova app Bilancio: quanto puoi spendere oggi fino allo stipendio.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.5/firmware.bin",
+      "size": 3196288,
+      "sha256": "9f5877bedd2d1684a7ad4e44cfda62d4471fa38087ffab366bfe666d64db080e"
+    },
     {
       "version": "1.8.4",
       "channel": "stable",
