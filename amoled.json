@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.2/firmware.bin"
+      "version": "1.8.6-dev.3",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.3/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.3",
+      "channel": "dev",
+      "date": "2026-10-17",
+      "notes": "Bilancio: saldo rimovibile, conti giusti prima dello stipendio, Riepilogo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.8.6-dev.3/firmware.bin",
+      "size": 3206688,
+      "sha256": "f9540bc6b2df5b806e77568fe961f8c593d354672c4d44383c7c485ddcad2bf3"
+    },
     {
       "version": "1.8.6-dev.2",
       "channel": "dev",
