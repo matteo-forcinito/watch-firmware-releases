@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.4/firmware.bin"
+      "version": "1.8.6-dev.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.5/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.5",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: due archi, disponibilit\u00e0 del periodo e spendibile di oggi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.5/firmware.bin",
+      "size": 3215888,
+      "sha256": "031a7c66f6f139d67870c401c49265325f2e0149cee7f8e1321b35eed80a8a7f"
+    },
     {
       "version": "1.8.6-dev.4",
       "channel": "dev",
