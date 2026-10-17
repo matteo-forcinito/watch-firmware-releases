@@ -3,12 +3,25 @@
   "version": "1.8.4",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.8.6-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.8.4",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.1",
+      "channel": "dev",
+      "date": "2026-10-17",
+      "notes": "Bilancio: quanto puoi spendere oggi, entrate e uscite per settimana/mese/anno.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.1/firmware.bin",
+      "size": 3192848,
+      "sha256": "62b4fe4b2c14ca792685fa9f7141b931bc82f9ba4fa9ac04cbe632b64c08161d"
+    },
     {
       "version": "1.8.4",
       "channel": "stable",
