@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.4/firmware.bin"
+      "version": "1.8.6-dev.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.5/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.5",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: due archi, disponibilit\u00e0 del periodo e spendibile di oggi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.5/firmware.bin",
+      "size": 3290960,
+      "sha256": "a04fea7f005b0534f533556578a75cd4198c56894dc24fa5f166933bb78de2e4"
+    },
     {
       "version": "1.8.6-dev.4",
       "channel": "dev",
