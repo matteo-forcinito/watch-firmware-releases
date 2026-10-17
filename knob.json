@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.8",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.8/firmware.bin"
+      "version": "1.8.6-dev.9",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.9/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.9",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sistema rifatta come Bilancio; monitor leggero col doppio reset che funziona.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.8.6-dev.9/firmware.bin",
+      "size": 3224128,
+      "sha256": "8f76cb68d46922dd83d12cd0092b16d1815cbb2e310380ac8843d79513f254b9"
+    },
     {
       "version": "1.8.6-dev.8",
       "channel": "dev",
