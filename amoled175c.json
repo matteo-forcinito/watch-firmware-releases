@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.8",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.8/firmware.bin"
+      "version": "1.8.6-dev.9",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.9/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.9",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Sistema rifatta come Bilancio; monitor leggero col doppio reset che funziona.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.9/firmware.bin",
+      "size": 3186272,
+      "sha256": "3a50318c2468d1a5648a39c800928c1c514c414964cc7c475c78885fa8a96e19"
+    },
     {
       "version": "1.8.6-dev.8",
       "channel": "dev",
