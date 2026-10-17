@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.4/firmware.bin"
+      "version": "1.8.6-dev.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.5/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.5",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: due archi, disponibilit\u00e0 del periodo e spendibile di oggi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6-dev.5/firmware.bin",
+      "size": 3177840,
+      "sha256": "ee75d2b43f8474b00b887f7751a97f226346ecf2d70c773eed9763158d5d5aed"
+    },
     {
       "version": "1.8.6-dev.4",
       "channel": "dev",
