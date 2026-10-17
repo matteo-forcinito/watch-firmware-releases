@@ -4,8 +4,8 @@
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
   "channels": {
     "dev": {
-      "version": "1.8.6-dev.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.5/firmware.bin"
+      "version": "1.8.6-dev.7",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.7/firmware.bin"
     },
     "stable": {
       "version": "1.8.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.8.6-dev.7",
+      "channel": "dev",
+      "date": "2026-10-18",
+      "notes": "Bilancio: lo stipendio gi\u00e0 arrivato entra sempre nel saldo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.7/firmware.bin",
+      "size": 3291056,
+      "sha256": "9abdf4848639b595be756ac2807426559de0b496ac332a95c8f00344a8a68418"
+    },
     {
       "version": "1.8.6-dev.5",
       "channel": "dev",
