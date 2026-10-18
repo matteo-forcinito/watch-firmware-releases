@@ -1,18 +1,27 @@
 {
   "schema": 2,
-  "version": "1.8.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin",
+  "version": "1.8.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6/firmware.bin",
   "channels": {
+    "stable": {
+      "version": "1.8.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6/firmware.bin"
+    },
     "dev": {
       "version": "1.8.6-dev.9",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.9/firmware.bin"
-    },
-    "stable": {
-      "version": "1.8.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.4/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.8.6",
+      "channel": "stable",
+      "date": "2026-10-18",
+      "notes": "kn khbkhhkuhukuh",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6/firmware.bin",
+      "size": 3298896,
+      "sha256": "59bea14857e4becb430eca1f2bab991bb21f5a8646f17c6b0efd0c0f50992109"
+    },
     {
       "version": "1.8.6-dev.9",
       "channel": "dev",
