@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.8.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6/firmware.bin",
+  "version": "1.9.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.8.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.8.6/firmware.bin"
+      "version": "1.9.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.0/firmware.bin"
     },
     "dev": {
       "version": "1.8.6-dev.9",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.0",
+      "channel": "stable",
+      "date": "2026-10-20",
+      "notes": "Casa: nuova home, medie sensori e catalogo locale",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.0/firmware.bin",
+      "size": 3341104,
+      "sha256": "920bf1b02e92e0871f73ab3624e9b79ecb7f55ac3b6a7d7dd0d1199f1a52e8ff"
+    },
     {
       "version": "1.8.6",
       "channel": "stable",
