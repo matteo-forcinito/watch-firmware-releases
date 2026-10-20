@@ -1,14 +1,23 @@
 {
   "schema": 2,
-  "version": "1.9.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.0/firmware.bin",
+  "version": "1.9.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.0/firmware.bin"
+      "version": "1.9.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.9.1",
+      "channel": "stable",
+      "date": "2026-10-20",
+      "notes": "Casa: dashboard attiva al ritorno alla home",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.1/firmware.bin",
+      "size": 3359376,
+      "sha256": "d4e38ad47d240210dc3d7b3871da9f912e09291424ed0f3b161773c857158ce3"
+    },
     {
       "version": "1.9.0",
       "channel": "stable",
