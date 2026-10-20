@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "version": "1.9.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.0/firmware.bin",
+  "channels": {
+    "stable": {
+      "version": "1.9.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.0/firmware.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "1.9.0",
+      "channel": "stable",
+      "date": "2026-10-20",
+      "notes": "Casa: nuova home, medie sensori e catalogo locale",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.0/firmware.bin",
+      "size": 3359280,
+      "sha256": "0254dd9b7349ed7eb891d4e417f496d0a298af9289f54f5aeccba1753c6f060b"
+    }
+  ]
+}
