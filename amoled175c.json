@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.0/firmware.bin",
+  "version": "1.9.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.0/firmware.bin"
+      "version": "1.9.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.1/firmware.bin"
     },
     "dev": {
       "version": "1.8.6-dev.9",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.1",
+      "channel": "stable",
+      "date": "2026-10-20",
+      "notes": "Casa: dashboard attiva al ritorno alla home",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.1/firmware.bin",
+      "size": 3341184,
+      "sha256": "10443e195a66068bf901a6f20173bf8ed01389c414d98b7d93465c87c3b11b94"
+    },
     {
       "version": "1.9.0",
       "channel": "stable",
