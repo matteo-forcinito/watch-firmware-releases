@@ -3,16 +3,25 @@
   "version": "1.9.1",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.1/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.9.2-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.2-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.9.1",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.1/firmware.bin"
-    },
-    "dev": {
-      "version": "1.8.6-dev.9",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.8.6-dev.9/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.9.2-dev.1",
+      "channel": "dev",
+      "date": "2026-10-21",
+      "notes": "Orbit Link: Orbi, scene tra dispositivi, audio e app esterne gestite da Orbit",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.2-dev.1/firmware.bin",
+      "size": 3397952,
+      "sha256": "3fce47f96871dd3ebaa533fd93c996c7b27bf6dfe8eebf967fcae7e20165c0e4"
+    },
     {
       "version": "1.9.1",
       "channel": "stable",
