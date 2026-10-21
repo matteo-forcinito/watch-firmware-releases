@@ -1,18 +1,27 @@
 {
   "schema": 2,
-  "version": "1.9.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.1/firmware.bin",
+  "version": "1.9.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.2/firmware.bin",
   "channels": {
+    "stable": {
+      "version": "1.9.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.2/firmware.bin"
+    },
     "dev": {
       "version": "1.9.2-dev.1",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.2-dev.1/firmware.bin"
-    },
-    "stable": {
-      "version": "1.9.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.9.2",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "## Novit\u00e0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.2/firmware.bin",
+      "size": 3394608,
+      "sha256": "4ba3c4a3cdc85d27107d7a64e5fb278acc10cdf80022262960cd812685a7c336"
+    },
     {
       "version": "1.9.2-dev.1",
       "channel": "dev",
