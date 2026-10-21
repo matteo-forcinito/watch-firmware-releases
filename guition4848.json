@@ -3,12 +3,25 @@
   "version": "1.9.1",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.1/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.9.2-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.2-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.9.1",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.9.2-dev.1",
+      "channel": "dev",
+      "date": "2026-10-21",
+      "notes": "Orbit Link: Orbi, scene tra dispositivi, audio e app esterne gestite da Orbit",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.2-dev.1/firmware.bin",
+      "size": 3372960,
+      "sha256": "570a4b61df01787c892b3fe577e5e5c4fb519dd5cb250f58a4f369976bbfc74f"
+    },
     {
       "version": "1.9.1",
       "channel": "stable",
