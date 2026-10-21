@@ -3,16 +3,25 @@
   "version": "1.9.1",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.1/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.9.2-dev.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.2-dev.1/firmware.bin"
+    },
     "stable": {
       "version": "1.9.1",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.1/firmware.bin"
-    },
-    "dev": {
-      "version": "1.8.6-dev.9",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.8.6-dev.9/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.9.2-dev.1",
+      "channel": "dev",
+      "date": "2026-10-21",
+      "notes": "Orbit Link: Orbi, scene tra dispositivi, audio e app esterne gestite da Orbit",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.2-dev.1/firmware.bin",
+      "size": 3467152,
+      "sha256": "7596e2ab84a33e64161ac3666b8fad015eb7c6f4412ddc6ac34c69a381239375"
+    },
     {
       "version": "1.9.1",
       "channel": "stable",
