@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.4/firmware.bin",
+  "version": "1.9.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.4/firmware.bin"
+      "version": "1.9.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.5/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.5",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "Children: il tuo pet nasce sul device, vive con te e viaggia con Orbit.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.5/firmware.bin",
+      "size": 3396240,
+      "sha256": "594a263d04427a9ccbb7a6221154c0d3ee9a09279a3aed8c59d7d741364c579e"
+    },
     {
       "version": "1.9.4",
       "channel": "stable",
