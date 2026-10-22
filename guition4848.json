@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.3/firmware.bin",
+  "version": "1.9.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.3/firmware.bin"
+      "version": "1.9.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.4/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.4",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "## Novit\u00e0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.4/firmware.bin",
+      "size": 3387168,
+      "sha256": "79e6601c8dca1e3b09cbbc35f9d2cf1302908487a7c7c0a466b99e275dda031d"
+    },
     {
       "version": "1.9.3",
       "channel": "stable",
