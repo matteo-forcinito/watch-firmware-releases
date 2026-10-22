@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.6/firmware.bin",
+  "version": "1.10.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.10.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.6/firmware.bin"
+      "version": "1.10.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.10.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.10.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in pixel art: animali veri che crescono, in un mondo col meteo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.10.0/firmware.bin",
+      "size": 3409456,
+      "sha256": "9827caba4096de178fed6cf220c93d02843569beaff70b3078d67ad9f270b961"
+    },
     {
       "version": "1.9.6",
       "channel": "stable",
