@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.6/firmware.bin",
+  "version": "1.10.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.10.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.6/firmware.bin"
+      "version": "1.10.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.10.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.10.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in pixel art: animali veri che crescono, in un mondo col meteo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.10.0/firmware.bin",
+      "size": 3439008,
+      "sha256": "85174e2bb8c31c4617b855d9a501b6865a7450fcf117cd32e8c24ba4f16dd510"
+    },
     {
       "version": "1.9.6",
       "channel": "stable",
