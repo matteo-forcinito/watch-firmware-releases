@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.6/firmware.bin",
+  "version": "1.10.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.10.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.9.6/firmware.bin"
+      "version": "1.10.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.10.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.10.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in pixel art: animali veri che crescono, in un mondo col meteo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.10.0/firmware.bin",
+      "size": 3514768,
+      "sha256": "71db6478115c710003b11c8ad062ed1bf0862900dc5ac015da73340aafb11181"
+    },
     {
       "version": "1.9.6",
       "channel": "stable",
