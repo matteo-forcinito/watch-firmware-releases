@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.5/firmware.bin",
+  "version": "1.9.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.6/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.5/firmware.bin"
+      "version": "1.9.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.6/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.6",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "Bluetooth pi\u00f9 affidabile: si accende anche con il Wi-Fi attivo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.6/firmware.bin",
+      "size": 3385648,
+      "sha256": "0c1daa8874da17e98b6cab95a7dffd693b15ef5d1cb449091755936bd91d2d71"
+    },
     {
       "version": "1.9.5",
       "channel": "stable",
