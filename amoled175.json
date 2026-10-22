@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.3/firmware.bin",
+  "version": "1.9.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.3/firmware.bin"
+      "version": "1.9.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.4/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.4",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "## Novit\u00e0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.9.4/firmware.bin",
+      "size": 3412288,
+      "sha256": "f7ed0f386e89fe3f18cc8c92d4d9df99d1d304713a6675b7094815cd791d7195"
+    },
     {
       "version": "1.9.3",
       "channel": "stable",
