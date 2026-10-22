@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.6",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.6/firmware.bin",
+  "version": "1.10.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.10.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.6",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.9.6/firmware.bin"
+      "version": "1.10.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.10.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.10.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in pixel art: animali veri che crescono, in un mondo col meteo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.10.0/firmware.bin",
+      "size": 3420272,
+      "sha256": "fb6ce2837567b16518b2a8b219876dafd7be6e5699cd5e5b3db2153b388a14a1"
+    },
     {
       "version": "1.9.6",
       "channel": "stable",
