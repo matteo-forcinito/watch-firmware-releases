@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.9.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.5/firmware.bin",
+  "version": "1.9.6",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.6/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.9.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.5/firmware.bin"
+      "version": "1.9.6",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.6/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.9.6",
+      "channel": "stable",
+      "date": "2026-10-22",
+      "notes": "Bluetooth pi\u00f9 affidabile: si accende anche con il Wi-Fi attivo.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.9.6/firmware.bin",
+      "size": 3415040,
+      "sha256": "f84cd22b95992b4d208ccb3da7d4aa358d3c162288a7284f2a7ecb89395354a3"
+    },
     {
       "version": "1.9.5",
       "channel": "stable",
