@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.12.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.12.0/firmware.bin",
+  "version": "1.13.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.13.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.12.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.12.0/firmware.bin"
+      "version": "1.13.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.13.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.13.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Salto quantico: il pet diventa un esploratore spaziale.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.13.0/firmware.bin",
+      "size": 3443680,
+      "sha256": "a402e0de3c743818ded46eec44caf03920f7bb91f48762c1fecf0369ba4e0b2b"
+    },
     {
       "version": "1.12.0",
       "channel": "stable",
