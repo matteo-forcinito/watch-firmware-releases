@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.10.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.10.0/firmware.bin",
+  "version": "1.11.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.11.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.10.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.10.0/firmware.bin"
+      "version": "1.11.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.11.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.11.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in viaggio tra dispositivi vicini: ricerca amici ed Ecosistema corretto.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.11.0/firmware.bin",
+      "size": 3414752,
+      "sha256": "06c38463f288f97225ce95cc3259274754824f99a7e0da816f449aef6ac84123"
+    },
     {
       "version": "1.10.0",
       "channel": "stable",
