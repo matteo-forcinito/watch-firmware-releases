@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.13.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.13.0/firmware.bin",
+  "version": "1.14.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.14.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.13.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.13.0/firmware.bin"
+      "version": "1.14.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.14.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.14.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Campagne persistenti e base condivisa per avventure piu grandi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.14.0/firmware.bin",
+      "size": 3447552,
+      "sha256": "a04427f8cc83abe7b9f38f8bb1e1139aeb78f2c467c3893375dd624bf22b45fd"
+    },
     {
       "version": "1.13.0",
       "channel": "stable",
