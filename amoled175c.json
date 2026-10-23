@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.12.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.12.0/firmware.bin",
+  "version": "1.13.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.13.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.12.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.12.0/firmware.bin"
+      "version": "1.13.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.13.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.13.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Salto quantico: il pet diventa un esploratore spaziale.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.13.0/firmware.bin",
+      "size": 3432944,
+      "sha256": "7b73da8b92221422350c6b9b561f73f634e140cac68ba8002550d77ed8cb5a30"
+    },
     {
       "version": "1.12.0",
       "channel": "stable",
