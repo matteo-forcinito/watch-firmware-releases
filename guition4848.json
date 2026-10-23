@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.13.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.13.0/firmware.bin",
+  "version": "1.14.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.14.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.13.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.13.0/firmware.bin"
+      "version": "1.14.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.14.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.14.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Campagne persistenti e base condivisa per avventure piu grandi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.14.0/firmware.bin",
+      "size": 3458368,
+      "sha256": "6f104a96f398f34bae648c69a6f6583d3fe664e34cb81f16b419547fd5db3828"
+    },
     {
       "version": "1.13.0",
       "channel": "stable",
