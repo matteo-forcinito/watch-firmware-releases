@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.11.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.11.0/firmware.bin",
+  "version": "1.12.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.12.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.11.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.11.0/firmware.bin"
+      "version": "1.12.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.12.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.12.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Minigiochi pet, ritorno a casa e base comune per creare nuovi giochi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.12.0/firmware.bin",
+      "size": 3449840,
+      "sha256": "b0e815c806e69db0528ba885fa4b25cb854bc84c296888202af5710a02ac8e6a"
+    },
     {
       "version": "1.11.0",
       "channel": "stable",
