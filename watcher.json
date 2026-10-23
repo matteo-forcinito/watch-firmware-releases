@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.10.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.10.0/firmware.bin",
+  "version": "1.11.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.11.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.10.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.10.0/firmware.bin"
+      "version": "1.11.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.11.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.11.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in viaggio tra dispositivi vicini: ricerca amici ed Ecosistema corretto.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.11.0/firmware.bin",
+      "size": 3520144,
+      "sha256": "de7bb0a3a68b1948535400db1af2b0281d6618c3d99e9a39423c0df4f5608cee"
+    },
     {
       "version": "1.10.0",
       "channel": "stable",
