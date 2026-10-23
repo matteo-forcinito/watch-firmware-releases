@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.10.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.10.0/firmware.bin",
+  "version": "1.11.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.11.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.10.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.10.0/firmware.bin"
+      "version": "1.11.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.11.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.11.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Pet in viaggio tra dispositivi vicini: ricerca amici ed Ecosistema corretto.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.11.0/firmware.bin",
+      "size": 3444144,
+      "sha256": "b04dd5f7d55dd00ce32dada7dfe8003db0da8370e0b03ff386158200d52f572a"
+    },
     {
       "version": "1.10.0",
       "channel": "stable",
