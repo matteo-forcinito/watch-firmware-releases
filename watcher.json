@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.12.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.12.0/firmware.bin",
+  "version": "1.13.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.13.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.12.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.12.0/firmware.bin"
+      "version": "1.13.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.13.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.13.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Salto quantico: il pet diventa un esploratore spaziale.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.13.0/firmware.bin",
+      "size": 3538256,
+      "sha256": "b1527bf6478015e44aea16fa6fd6fd74ad9f5e21f40c42484841e0e5c668bd70"
+    },
     {
       "version": "1.12.0",
       "channel": "stable",
