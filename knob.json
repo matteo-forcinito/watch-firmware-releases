@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.11.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.11.0/firmware.bin",
+  "version": "1.12.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.12.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.11.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.11.0/firmware.bin"
+      "version": "1.12.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.12.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.12.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Minigiochi pet, ritorno a casa e base comune per creare nuovi giochi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.12.0/firmware.bin",
+      "size": 3457104,
+      "sha256": "d466314597eeb3d06c06589c0005f1e7ae96f16a9d9b307350c275c1bc0b65ed"
+    },
     {
       "version": "1.11.0",
       "channel": "stable",
