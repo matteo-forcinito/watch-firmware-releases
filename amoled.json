@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.13.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.13.0/firmware.bin",
+  "version": "1.14.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.14.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.13.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.13.0/firmware.bin"
+      "version": "1.14.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.14.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.14.0",
+      "channel": "stable",
+      "date": "2026-10-23",
+      "notes": "Campagne persistenti e base condivisa per avventure piu grandi.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.14.0/firmware.bin",
+      "size": 3469504,
+      "sha256": "9aa2388c1811c65cc994a1ac7069a7770076464498845ab998fc047753723e96"
+    },
     {
       "version": "1.13.0",
       "channel": "stable",
