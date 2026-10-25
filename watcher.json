@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.15.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.15.0/firmware.bin",
+  "version": "1.16.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.15.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.15.0/firmware.bin"
+      "version": "1.16.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.0",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Piu RAM libera, Raccolta, Zampe e risparmio energetico.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.0/firmware.bin",
+      "size": 4013200,
+      "sha256": "1db70ce9485c42ad9bdb0948ff769a6856c3e7cb3f45cb780145416e98c22e93"
+    },
     {
       "version": "1.15.0",
       "channel": "stable",
