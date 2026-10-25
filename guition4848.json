@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.15.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.15.0/firmware.bin",
+  "version": "1.16.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.16.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.15.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.15.0/firmware.bin"
+      "version": "1.16.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.16.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.0",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Piu RAM libera, Raccolta, Zampe e risparmio energetico.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.16.0/firmware.bin",
+      "size": 3918528,
+      "sha256": "b1e79f8e8834667a2bf2ef5843f356609dfbc2ac8732cc5d55d984909fcca5fd"
+    },
     {
       "version": "1.15.0",
       "channel": "stable",
