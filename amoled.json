@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.15.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.15.0/firmware.bin",
+  "version": "1.16.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.16.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.15.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.15.0/firmware.bin"
+      "version": "1.16.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.16.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.0",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Piu RAM libera, Raccolta, Zampe e risparmio energetico.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.16.0/firmware.bin",
+      "size": 3929568,
+      "sha256": "8acaaf83cf80d8b8dec89a0ac33f4f24316c8dec0be1db100e5846682049eef6"
+    },
     {
       "version": "1.15.0",
       "channel": "stable",
