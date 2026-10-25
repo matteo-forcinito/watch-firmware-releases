@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.16.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.0/firmware.bin",
+  "version": "1.16.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.16.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.0/firmware.bin"
+      "version": "1.16.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.1/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.1",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Correzione del caricamento del Market.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.1/firmware.bin",
+      "size": 3943408,
+      "sha256": "e4aab26b05a940381836146c0a8f9b7f1365897aaef30fb3d92cb19297f5a8dc"
+    },
     {
       "version": "1.16.0",
       "channel": "stable",
