@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.16.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.16.0/firmware.bin",
+  "version": "1.16.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.16.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.16.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.16.0/firmware.bin"
+      "version": "1.16.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.16.1/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.1",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Correzione del caricamento del Market.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.16.1/firmware.bin",
+      "size": 3936128,
+      "sha256": "58f1d07961a92414167da84264b66a14313268ddce6da0c9c5553cbbfd9a68eb"
+    },
     {
       "version": "1.16.0",
       "channel": "stable",
