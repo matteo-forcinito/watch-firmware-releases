@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.14.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.14.0/firmware.bin",
+  "version": "1.15.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.15.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.14.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.14.0/firmware.bin"
+      "version": "1.15.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.15.0/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.15.0",
+      "channel": "stable",
+      "date": "2026-10-25",
+      "notes": "Pet Pokemon: 31 specie e varianti shiny, nuova pagina e cure.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.15.0/firmware.bin",
+      "size": 3847648,
+      "sha256": "3badb708c40192321431bd5f6f10910492fd171e9587bacba37cd1b48b582a7a"
+    },
     {
       "version": "1.14.0",
       "channel": "stable",
