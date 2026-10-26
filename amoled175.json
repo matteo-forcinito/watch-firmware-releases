@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.16.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.1/firmware.bin",
+  "version": "1.16.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.16.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.1/firmware.bin"
+      "version": "1.16.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.2/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.2",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Always-on, navigazione e app quotidiane.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.16.2/firmware.bin",
+      "size": 3958816,
+      "sha256": "da7c672277336022b8407f810526756eaa641fd3c0c096b469670b2cfe62fb0a"
+    },
     {
       "version": "1.16.1",
       "channel": "stable",
