@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.16.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.1/firmware.bin",
+  "version": "1.16.2",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.2/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.16.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.1/firmware.bin"
+      "version": "1.16.2",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.2/firmware.bin"
     },
     "dev": {
       "version": "1.9.2-dev.1",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.16.2",
+      "channel": "stable",
+      "date": "2026-10-26",
+      "notes": "Always-on, navigazione e app quotidiane.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.16.2/firmware.bin",
+      "size": 4028448,
+      "sha256": "fd5063f3cc91eeb2aa0388a5b4455cb48775fce03981b4238a9972f2cc73c361"
+    },
     {
       "version": "1.16.1",
       "channel": "stable",
