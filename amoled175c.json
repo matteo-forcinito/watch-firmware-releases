@@ -3,16 +3,25 @@
   "version": "1.16.2",
   "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.16.2/firmware.bin",
   "channels": {
+    "dev": {
+      "version": "1.17.0-dev.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0-dev.4/firmware.bin"
+    },
     "stable": {
       "version": "1.16.2",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.16.2/firmware.bin"
-    },
-    "dev": {
-      "version": "1.9.2-dev.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.9.2-dev.1/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.17.0-dev.4",
+      "channel": "dev",
+      "date": "2026-10-27",
+      "notes": "Agent Deck: allineamento dei firmware con renderer upstream e assistente Aether",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0-dev.4/firmware.bin",
+      "size": 4230400,
+      "sha256": "92e6eeec655861edd7583dc2a6407924796fcb074e1780b7137a3360946f04b2"
+    },
     {
       "version": "1.16.2",
       "channel": "stable",
