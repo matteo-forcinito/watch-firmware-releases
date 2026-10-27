@@ -1,0 +1,20 @@
+{
+  "schema": 2,
+  "channels": {
+    "dev": {
+      "version": "1.17.0-dev.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/lcd13-v1.17.0-dev.4/firmware.bin"
+    }
+  },
+  "releases": [
+    {
+      "version": "1.17.0-dev.4",
+      "channel": "dev",
+      "date": "2026-10-27",
+      "notes": "Agent Deck: allineamento dei firmware con renderer upstream e assistente Aether",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/lcd13-v1.17.0-dev.4/firmware.bin",
+      "size": 4225440,
+      "sha256": "37bc2f717d774997196a2b7faef75fee320662664e619292715909608eb74f32"
+    }
+  ]
+}
