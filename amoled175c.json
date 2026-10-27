@@ -1,18 +1,27 @@
 {
   "schema": 2,
-  "version": "1.16.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.16.2/firmware.bin",
+  "version": "1.17.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0/firmware.bin",
   "channels": {
+    "stable": {
+      "version": "1.17.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0/firmware.bin"
+    },
     "dev": {
       "version": "1.17.0-dev.4",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0-dev.4/firmware.bin"
-    },
-    "stable": {
-      "version": "1.16.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.16.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.17.0",
+      "channel": "stable",
+      "date": "2026-10-27",
+      "notes": "Agent Deck, rotazione dello schermo e avvio piu robusto sulle rotonde.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.0/firmware.bin",
+      "size": 4594176,
+      "sha256": "fe85d56a2047fd6cae90c72ae32e58c29efc596467182930f724c1cec1156e72"
+    },
     {
       "version": "1.17.0-dev.4",
       "channel": "dev",
