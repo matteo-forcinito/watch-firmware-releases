@@ -1,18 +1,27 @@
 {
   "schema": 2,
-  "version": "1.16.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.16.2/firmware.bin",
+  "version": "1.17.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.0/firmware.bin",
   "channels": {
+    "stable": {
+      "version": "1.17.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.0/firmware.bin"
+    },
     "dev": {
       "version": "1.17.0-dev.4",
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.0-dev.4/firmware.bin"
-    },
-    "stable": {
-      "version": "1.16.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.16.2/firmware.bin"
     }
   },
   "releases": [
+    {
+      "version": "1.17.0",
+      "channel": "stable",
+      "date": "2026-10-27",
+      "notes": "Agent Deck, rotazione dello schermo e avvio piu robusto sulle rotonde.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.0/firmware.bin",
+      "size": 4615952,
+      "sha256": "e20bc2764b847d5f6c810fe6c48217ddedf19d7f8c9a908fab5383b74b74b23d"
+    },
     {
       "version": "1.17.0-dev.4",
       "channel": "dev",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.0-dev.1/amoled_watch.bin",
       "size": 2493808,
       "sha256": "6f357108844ee9638a5f5be167afab68850cb8e92f7cbd14fa6da23cc8eef1f9"
-    },
-    {
-      "version": "1.2.0",
-      "channel": "stable",
-      "date": "2026-10-09",
-      "notes": "Release CI: initialize only the watch-os-common submodule",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.2.0/amoled_watch.bin",
-      "size": 2493808,
-      "sha256": "5292e12244868fcd3d890924af62153a9853b71d249ae4007c416d915f4da0d0"
     }
   ]
 }
