@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.2",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.2/firmware.bin",
+  "version": "1.17.3",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.3/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.2",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.2/firmware.bin"
+      "version": "1.17.3",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.3/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.3",
+      "channel": "stable",
+      "date": "2026-10-28",
+      "notes": "Watch OS 1.17.3",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.3/firmware.bin",
+      "size": 4720912,
+      "sha256": "cc2c2d0460c13900afcbaa2221b83d0022227ea12f8357b9d6ea24199b977666"
+    },
     {
       "version": "1.17.2",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.2/firmware.bin",
       "size": 2577072,
       "sha256": "54467a0a40ed79d6cc7025b1ab5ee6ac5d04b19ab412b1462c4a464e932d163d"
-    },
-    {
-      "version": "0.3.1",
-      "channel": "stable",
-      "date": "2026-10-09",
-      "notes": "build/firmware.bin for every build; release asset named firmware.bin",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.1/firmware.bin",
-      "size": 2574784,
-      "sha256": "7371a29b495b47dfa9c52bf1ad95087b9f34a60f22a6a5f3c71483c437d3b3d5"
     }
   ]
 }
