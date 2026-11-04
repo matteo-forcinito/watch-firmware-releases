@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.4/firmware.bin",
+  "version": "1.17.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.4/firmware.bin"
+      "version": "1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.5/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.5",
+      "channel": "stable",
+      "date": "2026-11-04",
+      "notes": "Watch OS 1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.5/firmware.bin",
+      "size": 4729552,
+      "sha256": "017034feae95851a2b061e37dc13f36d085aea343335cdfd42e3ad658572bf63"
+    },
     {
       "version": "1.17.4",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.4/firmware.bin",
       "size": 2598768,
       "sha256": "8183e4ba7f2056558045a25c56d04faf242f9999103ac5b31403010583104e26"
-    },
-    {
-      "version": "0.3.3",
-      "channel": "stable",
-      "date": "2026-10-11",
-      "notes": "Fotocamera interna: foto VGA, galleria SD e clip MJPEG senza audio (~1 fps).",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin",
-      "size": 2596000,
-      "sha256": "751c67328a622abe87c558612bb1b0c2ce51f88a541410f5edda35deb00d2904"
     }
   ]
 }
