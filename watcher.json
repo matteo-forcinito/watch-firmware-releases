@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.3/firmware.bin",
+  "version": "1.17.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.3/firmware.bin"
+      "version": "1.17.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.4/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.4",
+      "channel": "stable",
+      "date": "2026-11-04",
+      "notes": "Watch OS 1.17.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.17.4/firmware.bin",
+      "size": 4729360,
+      "sha256": "9a1df7aa0be30c1b960ccd660e3cf237a37aa2865c6824d4f313cb5b222f7c21"
+    },
     {
       "version": "1.17.3",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.3/firmware.bin",
       "size": 2596000,
       "sha256": "751c67328a622abe87c558612bb1b0c2ce51f88a541410f5edda35deb00d2904"
-    },
-    {
-      "version": "0.3.2",
-      "channel": "stable",
-      "date": "2026-10-10",
-      "notes": "Reliability: watchdog panic, bigger IPC/idle stacks, health report",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.2/firmware.bin",
-      "size": 2577072,
-      "sha256": "54467a0a40ed79d6cc7025b1ab5ee6ac5d04b19ab412b1462c4a464e932d163d"
     }
   ]
 }
