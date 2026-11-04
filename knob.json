@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.3",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.3/firmware.bin",
+  "version": "1.17.4",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.4/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.3",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.3/firmware.bin"
+      "version": "1.17.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.4/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.4",
+      "channel": "stable",
+      "date": "2026-11-04",
+      "notes": "Watch OS 1.17.4",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.4/firmware.bin",
+      "size": 4639744,
+      "sha256": "3972408cacd902fe19f4289ed8e2f01f15b739f37a82d8ee41d17ad5bf289dd5"
+    },
     {
       "version": "1.17.3",
       "channel": "stable",
