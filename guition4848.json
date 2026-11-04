@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.17.4/firmware.bin",
+  "version": "1.17.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.17.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.17.4/firmware.bin"
+      "version": "1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.17.5/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.5",
+      "channel": "stable",
+      "date": "2026-11-04",
+      "notes": "Watch OS 1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.17.5/firmware.bin",
+      "size": 4619280,
+      "sha256": "c25c8a92211b01178c1545bd4c0fe370ebb99f79ef69578d4b6ce758e5e5037e"
+    },
     {
       "version": "1.17.4",
       "channel": "stable",
