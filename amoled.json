@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.4",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.4/firmware.bin",
+  "version": "1.17.5",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.5/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.4",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.4/firmware.bin"
+      "version": "1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.5/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.17.5",
+      "channel": "stable",
+      "date": "2026-11-04",
+      "notes": "Watch OS 1.17.5",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.17.5/firmware.bin",
+      "size": 4672608,
+      "sha256": "867e784a8950243d141f3347fd180751f95011ad3c698b954b788a0e5e7840fb"
+    },
     {
       "version": "1.17.4",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.3/firmware.bin",
       "size": 2511168,
       "sha256": "296f9fb0352db02724734026b6f18d611bc70105c10640ba1f30ede14d1cf8a1"
-    },
-    {
-      "version": "1.3.2",
-      "channel": "stable",
-      "date": "2026-10-10",
-      "notes": "Reliability fixes: panel IO lock, watchdog panic, bigger IPC/idle stacks",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled-v1.3.2/firmware.bin",
-      "size": 2504704,
-      "sha256": "91bc32014ea75c290afed028670aca72ceecb566bc4ef2272f589d19dd2e722c"
     }
   ]
 }
