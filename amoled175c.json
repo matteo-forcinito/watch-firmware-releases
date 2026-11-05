@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.5/firmware.bin",
+  "version": "1.18.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.18.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.17.5/firmware.bin"
+      "version": "1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.18.0/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.0",
+      "channel": "stable",
+      "date": "2026-11-05",
+      "notes": "Watch OS 1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175c-v1.18.0/firmware.bin",
+      "size": 4616960,
+      "sha256": "0744161fd0fa5dbec955ba044e1f4ac977157c78bfd391d39dd589dd2af6404a"
+    },
     {
       "version": "1.17.5",
       "channel": "stable",
