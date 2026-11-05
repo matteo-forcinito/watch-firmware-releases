@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.17.5/firmware.bin",
+  "version": "1.18.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.18.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.17.5/firmware.bin"
+      "version": "1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.18.0/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.0",
+      "channel": "stable",
+      "date": "2026-11-05",
+      "notes": "Watch OS 1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v1.18.0/firmware.bin",
+      "size": 4652128,
+      "sha256": "b3a39c3edec1338ab807b2db22331bcaea94d77af9cdb239fc6219f3da726a6e"
+    },
     {
       "version": "1.17.5",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.2/firmware.bin",
       "size": 2478544,
       "sha256": "9161cdffc6d8945619dcbcf5ce8774b66c4ffb42923e919a99196626d8eda058"
-    },
-    {
-      "version": "0.1.1",
-      "channel": "stable",
-      "date": "2026-10-11",
-      "notes": "Dispositivi senza SD: app incompatibili nascoste, memoria file interna e gestio",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/amoled175-v0.1.1/firmware.bin",
-      "size": 2477856,
-      "sha256": "725f7c8adf427aad86bc4fe680f30a8e97af87665680dcbc487bbb0c7d816cd8"
     }
   ]
 }
