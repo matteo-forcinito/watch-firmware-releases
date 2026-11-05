@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.17.5",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.5/firmware.bin",
+  "version": "1.18.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.17.5",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.17.5/firmware.bin"
+      "version": "1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.0/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.0",
+      "channel": "stable",
+      "date": "2026-11-05",
+      "notes": "Watch OS 1.18.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.0/firmware.bin",
+      "size": 4648016,
+      "sha256": "8677067fbc05592b07203ace9daa58d5ac450648cb45a337395b6d767be8788b"
+    },
     {
       "version": "1.17.5",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.2/firmware.bin",
       "size": 2529504,
       "sha256": "50e5d7fd8afb7efc2cf3aeb749545f725d6823becc444758341aee658815ff6e"
-    },
-    {
-      "version": "0.1.1",
-      "channel": "stable",
-      "date": "2026-10-12",
-      "notes": "Ship shared Remote 1.0.0 with PC keyboard, scroll, shortcuts and gamepad",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.1/firmware.bin",
-      "size": 2529360,
-      "sha256": "ca3b5ba686260e1d7eca11cce1168358b08129c67919a24b3a4e41fa5a95d280"
     }
   ]
 }
