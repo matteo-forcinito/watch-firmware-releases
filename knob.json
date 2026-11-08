@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.18.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.0/firmware.bin",
+  "version": "1.18.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.18.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.0/firmware.bin"
+      "version": "1.18.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.1/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.1",
+      "channel": "stable",
+      "date": "2026-11-08",
+      "notes": "Orbit su ESP-NOW, ponte Bluetooth cifrato e radio condivisa piu stabile.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v1.18.1/firmware.bin",
+      "size": 4342560,
+      "sha256": "cbeeab5f72d9ae660065b24c20e444597c1ddb5f4939f4bde8de743bc15f2d49"
+    },
     {
       "version": "1.18.0",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.3/firmware.bin",
       "size": 2532560,
       "sha256": "8d795d494ecce4062362b4baf031e7c34f4177f437603b541624f68c8156b43d"
-    },
-    {
-      "version": "0.1.2",
-      "channel": "stable",
-      "date": "2026-10-12",
-      "notes": "Ship Remote 1.0.1 and Settings access to all apps",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/knob-v0.1.2/firmware.bin",
-      "size": 2529504,
-      "sha256": "50e5d7fd8afb7efc2cf3aeb749545f725d6823becc444758341aee658815ff6e"
     }
   ]
 }
