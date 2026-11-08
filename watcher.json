@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.18.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.0/firmware.bin",
+  "version": "1.18.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.18.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.0/firmware.bin"
+      "version": "1.18.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.1/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.1",
+      "channel": "stable",
+      "date": "2026-11-08",
+      "notes": "Orbit su ESP-NOW, ponte Bluetooth cifrato e radio condivisa piu stabile.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.1/firmware.bin",
+      "size": 4427440,
+      "sha256": "6f947223b92f3b5551b41f404c91594398c7e41d9361366b8214dde93726104c"
+    },
     {
       "version": "1.18.0",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.6/firmware.bin",
       "size": 2603296,
       "sha256": "10797aad5bcdebc40f7ff7da31c492f4fadab22c5e8576f1fb37d17e663bd0c3"
-    },
-    {
-      "version": "0.3.5",
-      "channel": "stable",
-      "date": "2026-10-11",
-      "notes": "Corretto arresto video: pressione prolungata dal menu e Stop visibile durante R",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.5/firmware.bin",
-      "size": 2599200,
-      "sha256": "f7e6a79093748b4cdc1ff15c29de6bdb5b087b6e25d73414dcd16e4df9d0116c"
     }
   ]
 }
