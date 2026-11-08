@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.18.0",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.18.0/firmware.bin",
+  "version": "1.18.1",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.18.1/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.18.0",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.18.0/firmware.bin"
+      "version": "1.18.1",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.18.1/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.18.1",
+      "channel": "stable",
+      "date": "2026-11-08",
+      "notes": "Orbit su ESP-NOW, ponte Bluetooth cifrato e radio condivisa piu stabile.",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/guition4848-v1.18.1/firmware.bin",
+      "size": 4321504,
+      "sha256": "6c82230f3bf7d4b0dca98bf12f10765be4a9b0729ed553df0cb3fa066dd8eee4"
+    },
     {
       "version": "1.18.0",
       "channel": "stable",
