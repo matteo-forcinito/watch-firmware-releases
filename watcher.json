@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "1.18.1",
-  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.1/firmware.bin",
+  "version": "1.19.0",
+  "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.19.0/firmware.bin",
   "channels": {
     "stable": {
-      "version": "1.18.1",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.18.1/firmware.bin"
+      "version": "1.19.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.19.0/firmware.bin"
     },
     "dev": {
       "version": "1.17.0-dev.4",
@@ -13,6 +13,15 @@
     }
   },
   "releases": [
+    {
+      "version": "1.19.0",
+      "channel": "stable",
+      "date": "2026-11-11",
+      "notes": "Watch OS 1.19.0",
+      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v1.19.0/firmware.bin",
+      "size": 4815712,
+      "sha256": "4355b828a6acb57dfc08bac8b8e6692d8b9acf0b4ee4686c6458bfd16a87fbb3"
+    },
     {
       "version": "1.18.1",
       "channel": "stable",
@@ -453,15 +462,6 @@
       "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.7/firmware.bin",
       "size": 2603456,
       "sha256": "130f536ea162f630402325f2ec6fd4bec869ea2555bda87dfa0e19f80aec99ff"
-    },
-    {
-      "version": "0.3.6",
-      "channel": "stable",
-      "date": "2026-10-12",
-      "notes": "Ship shared Remote 1.0.0 with PC keyboard, scroll, shortcuts and gamepad",
-      "url": "https://github.com/matteo-forcinito/watch-firmware-releases/releases/download/watcher-v0.3.6/firmware.bin",
-      "size": 2603296,
-      "sha256": "10797aad5bcdebc40f7ff7da31c492f4fadab22c5e8576f1fb37d17e663bd0c3"
     }
   ]
 }
